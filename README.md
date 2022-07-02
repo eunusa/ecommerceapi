@@ -5,6 +5,7 @@ ecommerceapi
 --------------------
 * npm init -y
 * yarn  add express mongoose dotenv nodemon
+* yarn add crypto-js // 암호화 라이브러리설치
 
 ##postman 사용
 ----------------
