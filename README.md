@@ -6,6 +6,10 @@ ecommerceapi
 * npm init -y
 * yarn  add express mongoose dotenv nodemon
 
+##postman 사용
+----------------
+postman으로 post 테스트 및 mongodb 등록 가능
+
 
 
 
